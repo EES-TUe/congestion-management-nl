@@ -24,10 +24,10 @@ permalink: /program/
 | 9:45-10:00   | Register/coffee                |
 | 10:00-10:15  | Walk in/Welcome                |
 | 10:00-10:30  | EE-NL & EES speak              |
-| 10:30-11:15  | Haris-DTU                      |
+| 10:30-11:15  | Haris                          |
 | 11:15-12:00  | Discussion                     |
 | 12:00-13:00  | Lunch & Poster Presentation    |
-| 13:00-13:45  | Wouter-Alliander               |
+| 13:00-13:45  | Wouter                         |
 | 13:45-14:30  | Discussion                     |
 | 14:30-15:15  | Speaker to be confirmed soon   |
 | 15:15-16:00  | Discussion                     |
