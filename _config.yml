@@ -115,9 +115,10 @@ analytics:
 author:
   name             : "Octorber13, 2025"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Conference room to be confirmed"
+  bio              : "De Zwarte Doos"
   location: |
-    TU/e Campus  
+    TU/e Campus, Eindhoven
+    <a href="https://maps.app.goo.gl/kjGtj2r7AeFvv8P57" target="_blank" style="color:inherit; text-decoration:underline;">View on Map</a>
     <img src="/congestion-management-nl/assets/images/ee-nl-logo.png" alt="EE-NL Logo" style="max-width:150px; display:block; margin:10px 0;">
     <img src="/congestion-management-nl/assets/images/tue-logo.png" alt="TUe Logo" style="max-width:150px; display:block; margin:10px 0;">
   email            :

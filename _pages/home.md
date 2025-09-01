@@ -31,7 +31,7 @@ As grid congestion becomes a critical issue, congestion management stands out as
 ### <span style="color:#0077b6;">Registration</span>
 
 <div style="font-size:1.1em;">
-Registration is free and will be open soon. Please visit our <a href="/registration">registration page</a> for more information on fees and procedures. 
+Registration is free and will be open soon. Please visit our <a href="/congestion-management-nl/application">registration page</a> for more information on fees and procedures. 
 </div>
 
 ---
@@ -69,4 +69,6 @@ This event is supported by <b><a href="https://ee-nl.nl/" target="_blank" style=
   <img src="/congestion-management-nl/assets/images/ee-nl-logo.png" alt="EE-NL Logo" style="max-height:86px; height:auto;">
   <img src="/congestion-management-nl/assets/images/tue-logo.png" alt="TUe Logo" style="max-height:76px; height:auto;">
 </div>
+
+
 
