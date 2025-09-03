@@ -21,7 +21,7 @@ permalink: /program/
 
 | Time         | Program                        |
 |--------------|-------------------------------|
-| 9:45-10:00   | Register/coffee                |
+| 9:45-10:00   | Registration/coffee                |
 | 10:00-10:15  | Walk-in/Welcome                |
 | 10:00-10:30  | EE-NL & EES speak              |
 | 10:30-11:15  | Haris Ziras (DTU)             |
