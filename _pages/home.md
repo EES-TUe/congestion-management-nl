@@ -13,7 +13,7 @@ author_profile: true
 ### <span style="color:#0077b6;">Background</span>
 
 <div style="font-size:1.1em;">
-With rapid energy transition and economic growth in the Netherlands, grid capacity is under unprecedented pressure. Most regions now face insufficient capacity for electrical system operation—known as grid congestion. Large consumers above 60 MW are required to participate in congestion management, but practical implementation and future expectations remain key challenges.
+With rapid energy transition and economic growth in the Netherlands, grid capacity is under unprecedented pressure. Most regions now face insufficient capacity for electrical system operation—known as grid congestion. Customers with a connection of over 1 MW are required to participate in congestion management if flexibility is lacking. Although great progress has been made in practical implementation, significant challenges remain with regard to future expectations.
 </div>
 
 ---
