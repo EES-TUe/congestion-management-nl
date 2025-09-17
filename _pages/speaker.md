@@ -42,3 +42,22 @@ Research Associate, Eindhoven University of Technology<br>
   <a href="javascript:void(0);" onclick="document.getElementById('wouter-short').style.display='inline';document.getElementById('wouter-full').style.display='none';">See less</a>
 </span>
 </div>
+
+---
+
+<div style="font-size:0.95em; font-family:'Segoe UI', 'Arial', sans-serif; margin-bottom:30px;">
+<img src="/congestion-management-nl/assets/images/Saber.png" alt="Saber Talari" style="max-width:160px; border-radius:8px; margin-bottom:10px;"><br>
+<b>Saber Talari</b><br>
+Assistant Professor, University of Cologne<br>
+Guest Faculty Member, Johns Hopkins University<br>
+<a href="https://is3.uni-koeln.de/en/team/post-doctoral-researchers/saber-talari" target="_blank" style="color:inherit; text-decoration:underline;">More about Saber Talari</a><br>
+<span id="saber-short">
+  Saber Talari is an Assistant Professor of Smart Sustainable Energy Markets at the University of Cologne and a guest faculty member at Johns Hopkins University. <a href="javascript:void(0);" onclick="document.getElementById('saber-short').style.display='none';document.getElementById('saber-full').style.display='inline';">See more</a>
+</span>
+<span id="saber-full" style="display:none; font-size:0.85em;">
+  <br>
+  Saber earned his PhD in Electrical and Computer Engineering in Portugal (2019), where his research focused on designing market schemes for effective demand-side management. Following his PhD, he joined the Fraunhofer Institute for Energy Economics and Energy System Technology as a Scientific Researcher in the Grid Planning and Operation Division, addressing the operational challenges of future power systems with high shares of renewable energy in Europe.<br><br>
+  Currently, he serves as the Scientific Coordinator of the EU-Horizon INTELLIGENT project and as an Associate Editor of IET Generation, Transmission & Distribution (Wiley). His research interests include the digitalization of the energy sector to support decarbonization, empowering prosumers within citizen energy communities, algorithmic marketplaces for local energy trading, and on-site flexibility in weather-dependent renewables using emerging energy storage systems such as hydrogen.
+  <a href="javascript:void(0);" onclick="document.getElementById('saber-short').style.display='inline';document.getElementById('saber-full').style.display='none';">See less</a>
+</span>
+</div>
