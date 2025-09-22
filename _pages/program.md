@@ -29,11 +29,10 @@ permalink: /program/
 | 12:00-13:00  | Lunch & Poster Presentation    |
 | 13:00-13:45  | Wouter van den Akker (Alliander & TU/e)|
 | 13:45-14:30  | Discussion                     |
-| 14:30-15:15  | Saber Talari (Univ. of Cologne) |
-| 15:15-16:00  | Discussion                     |
-| 16:00-16:15  | Break                          |
-| 16:15-16:45  | Panel Discussion               |
-| 16:45-17:00  | Conclusion/Vote result         |
+| 14:30-14:45  | Break                    |
+| 14:45-15:30  | Saber Talari (Univ. of Cologne) |
+| 15:30-16:15  | Discussion                     |
+| 16:15-16:30  | Conclusion/Vote result         |
 
 ---
 
