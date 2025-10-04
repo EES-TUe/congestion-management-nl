@@ -31,7 +31,7 @@ As grid congestion becomes a critical issue, congestion management stands out as
 ### <span style="color:#0077b6;">Registration</span>
 
 <div style="font-size:1.1em;">
-Registration is free. Please visit our <a href="/congestion-management-nl/application">registration page</a> for more information. Currently, all registration slots are full. Further registrations will be placed on a waiting list.
+Registration is free. Please visit our <a href="/congestion-management-nl/application">registration page</a> for more information. Registration is now over.
 </div>
 
 ---
