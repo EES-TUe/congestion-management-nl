@@ -46,6 +46,23 @@ Research Associate, Eindhoven University of Technology<br>
 ---
 
 <div style="font-size:0.95em; font-family:'Segoe UI', 'Arial', sans-serif; margin-bottom:30px;">
+<img src="/congestion-management-nl/assets/images/Chris.jpg" alt="Christina Papadimitriou" style="max-width:160px; border-radius:8px; margin-bottom:10px;"><br>
+<b>Christina Papadimitriou</b><br>
+Assistant Professor, Department of Electrical Engineering, Eindhoven University of Technology<br>
+<a href="https://www.tue.nl/en/research/researchers/christina-papadimitriou/" target="_blank" style="color:inherit; text-decoration:underline;">More about Christina Papadimitriou</a><br>
+<span id="christina-short">
+  Christina Papadimitriou is an Assistant Professor in the Department of Electrical Engineering at Eindhoven University of Technology. <a href="javascript:void(0);" onclick="document.getElementById('christina-short').style.display='none';document.getElementById('christina-full').style.display='inline';">See more</a>
+</span>
+<span id="christina-full" style="display:none; font-size:0.85em;">
+  <br>
+  Dr. Christina Papadimitriou has been an Assistant Professor at Eindhoven University of Technology (TU/e) on integrated power and energy systems since 2022. She received her diploma in Electrical and Computer Engineering from the University of Patras, Greece (2001–2006), and her PhD on control of dispersed generation for integration into microgrids (research excellence grant). She was a senior researcher at the National Technical University of Athens (NTUA) from 2013 to 2016. From 2016 to 2019 she served as a system engineer at the Greek Distribution System Operator (HEDNO). She was a post‑doctoral fellow with FOSS and the University of Cyprus from 2019 to 2022. Dr. Papadimitriou has managed and coordinated European and national projects focused on smart grid planning and operation for flexibility harvesting of the integrated grid. She currently chairs the BRIDGE Working Group on Business Models and is part of the managerial team of EIRES.
+  <a href="javascript:void(0);" onclick="document.getElementById('christina-short').style.display='inline';document.getElementById('christina-full').style.display='none';">See less</a>
+</span>
+</div>
+
+---
+
+<!-- <div style="font-size:0.95em; font-family:'Segoe UI', 'Arial', sans-serif; margin-bottom:30px;">
 <img src="/congestion-management-nl/assets/images/Saber.png" alt="Saber Talari" style="max-width:160px; border-radius:8px; margin-bottom:10px;"><br>
 <b>Saber Talari</b><br>
 Assistant Professor, University of Cologne<br>
@@ -59,5 +76,8 @@ Guest Faculty Member, Johns Hopkins University<br>
   Saber earned his PhD in Electrical and Computer Engineering in Portugal (2019), where his research focused on designing market schemes for effective demand-side management. Following his PhD, he joined the Fraunhofer Institute for Energy Economics and Energy System Technology as a Scientific Researcher in the Grid Planning and Operation Division, addressing the operational challenges of future power systems with high shares of renewable energy in Europe.<br><br>
   Currently, he serves as the Scientific Coordinator of the EU-Horizon INTELLIGENT project and as an Associate Editor of IET Generation, Transmission & Distribution (Wiley). His research interests include the digitalization of the energy sector to support decarbonization, empowering prosumers within citizen energy communities, algorithmic marketplaces for local energy trading, and on-site flexibility in weather-dependent renewables using emerging energy storage systems such as hydrogen.
   <a href="javascript:void(0);" onclick="document.getElementById('saber-short').style.display='inline';document.getElementById('saber-full').style.display='none';">See less</a>
-</span>
-</div>
+</span> -->
+
+
+
+<!-- </div> -->

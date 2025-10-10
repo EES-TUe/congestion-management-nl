@@ -10,4 +10,4 @@ permalink: /application/
 Currently, registration is over. 
 
 
-</div>
+<!-- </div> -->

@@ -19,20 +19,20 @@ permalink: /program/
 
 ## 🕒 Tentative Timetable
 
-| Time         | Program                        |
-|--------------|-------------------------------|
-| 9:45-10:00   | Registration/coffee            |
-| 10:00-10:10  | Walk-in/Welcome                |
-| 10:10-10:30  | EE-NL & EES speak              |
-| 10:30-11:15  | Haris Ziras (DTU)             |
-| 11:15-12:00  | Discussion                     |
-| 12:00-13:00  | Lunch & Poster Presentation    |
-| 13:00-13:45  | Wouter van den Akker (Alliander & TU/e)|
-| 13:45-14:30  | Discussion                     |
-| 14:30-14:45  | Break                    |
-| 14:45-15:30  | Saber Talari (Univ. of Cologne) |
-| 15:30-16:15  | Discussion                     |
-| 16:15-16:30  | Conclusion/Vote result         |
+| Time         | Program                                                                 |
+|--------------|-------------------------------------------------------------------------|
+| 9:45-10:00   | Registration / coffee                                                   |
+| 10:00-10:10  | Walk-in / Welcome                                                       |
+| 10:10-10:30  | EE-NL & EES speak                                                       |
+| 10:30-11:15  | <strong>Haris Ziras (DTU)</strong><br><small><em>A Danish perspective on EV flexibility and congestion management</em></small> |
+| 11:15-12:00  | Discussion                                                              |
+| 12:00-13:00  | Lunch & Poster Presentation                                             |
+| 13:00-13:45  | <strong>Wouter van den Akker (Alliander & TU/e)</strong><br><small><em>Congestion <del>management</del> in need of alternatives</em></small> |
+| 13:45-14:30  | Discussion                                                              |
+| 14:30-14:45  | Break                                                                   |
+| 14:45-15:30  | <strong>Christina Papadimitriou (TU/e)</strong><br><small><em>Energy hubs under the energy community concept</em></small> |
+| 15:30-16:15  | Discussion                                                              |
+| 16:15-16:30  | Conclusion                                                               |
 
 ---
 
