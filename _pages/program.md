@@ -32,7 +32,7 @@ permalink: /program/
 | 14:30-14:45  | Break                                                                   |
 | 14:45-15:30  | <strong>Christina Papadimitriou (TU/e)</strong><br><small><em>Energy hubs under the energy community concept</em></small> |
 | 15:30-16:15  | Discussion                                                              |
-| 16:15-16:30  | Conclusion                                                               |
+| 16:15-16:20  | Conclusion                                                               |
 
 ---
 
