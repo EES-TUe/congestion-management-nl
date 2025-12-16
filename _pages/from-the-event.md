@@ -4,9 +4,8 @@ title: "From the Event"
 permalink: /from-the-event/
 ---
 
-## 📸 From the Event
 
-This section documents the workshop process and highlights selected outcomes from the structured participatory discussions, including photos and links to openly available results data.
+This page documents the workshop process and highlights selected outcomes from the structured participatory discussions, including photos and links to openly available results data.
 
 ---
 
