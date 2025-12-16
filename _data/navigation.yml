@@ -15,3 +15,6 @@ main:
   - title: "Contact"
     url: /contact/
     icon: "fas fa-envelope"
+  - title: "From the Event"  
+    url: /from-the-event/
+    icon: "fas fa-images"
